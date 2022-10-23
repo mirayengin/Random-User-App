@@ -1,6 +1,6 @@
 # Project : Random User App
 
-## Check The Live Website ➡️ [Live Website](https://legendcxaddusers.netlify.app/)
+## Check The Live Website ➡️ [Live Website](mirayengin-random-user-app.netlify.app/)
 
 ## Description
 
